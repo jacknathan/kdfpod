@@ -1,0 +1,6 @@
+framework module Pods_kdfPod_Example {
+  umbrella header "Pods-kdfPod_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

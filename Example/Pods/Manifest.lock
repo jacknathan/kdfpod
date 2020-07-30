@@ -1,0 +1,16 @@
+PODS:
+  - kdfPod (0.1.0)
+
+DEPENDENCIES:
+  - kdfPod (from `../`)
+
+EXTERNAL SOURCES:
+  kdfPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  kdfPod: 8ef9a45d392b19554291cc086499bbb66c0257a2
+
+PODFILE CHECKSUM: 3b1060e7107d3edbaacda58bdfab047e60382e01
+
+COCOAPODS: 1.9.1

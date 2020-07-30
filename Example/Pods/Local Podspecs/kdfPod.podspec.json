@@ -1,0 +1,22 @@
+{
+  "name": "kdfPod",
+  "version": "0.1.0",
+  "summary": "A short description of kdfPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jacknathan/kdfPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jacknathan": "wangxiaodao@fenxianglife.com"
+  },
+  "source": {
+    "git": "https://github.com/jacknathan/kdfPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "kdfPod/Classes/**/*"
+}
