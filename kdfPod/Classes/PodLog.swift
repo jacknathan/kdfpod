@@ -11,6 +11,6 @@ import UIKit
 class PodLog: NSObject {
 
     func logMsg() {
-        print("log pod")
+        print("log pods")
     }
 }
