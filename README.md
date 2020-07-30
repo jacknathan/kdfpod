@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # kdfPod
 
 [![CI Status](https://img.shields.io/travis/jacknathan/kdfPod.svg?style=flat)](https://travis-ci.org/jacknathan/kdfPod)
@@ -27,3 +28,7 @@ jacknathan, wangxiaodao@fenxianglife.com
 ## License
 
 kdfPod is available under the MIT license. See the LICENSE file for more info.
+=======
+# kdfpod
+kdfpod
+>>>>>>> 227f9db8db47b7cf5dd5c66e03dc94e4d66957ac
