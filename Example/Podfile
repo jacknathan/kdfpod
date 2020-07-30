@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'kdfPod_Example' do
+  pod 'kdfPod', :path => '../'
+
+  target 'kdfPod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
