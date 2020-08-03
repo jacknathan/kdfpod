@@ -313,10 +313,12 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-kdfPod_Example/Pods-kdfPod_Example-frameworks.sh",
+				"${PODS_ROOT}/../../kdfPod/Frameworks/KDFCreditcardsTool.framework",
 				"${BUILT_PRODUCTS_DIR}/kdfPod/kdfPod.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/KDFCreditcardsTool.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/kdfPod.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;

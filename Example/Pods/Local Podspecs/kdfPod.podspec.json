@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of kdfPod.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/jacknathan/kdfPod",
+  "homepage": "https://github.com/jacknathan/kdfpod",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,14 @@
     "jacknathan": "wangxiaodao@fenxianglife.com"
   },
   "source": {
-    "git": "https://github.com/jacknathan/kdfPod.git",
+    "git": "https://github.com/jacknathan/kdfpod.git",
     "tag": "0.1.0"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "kdfPod/Classes/**/*"
+  "source_files": "kdfPod/Classes/**/*",
+  "ios": {
+    "vendored_frameworks": "kdfPod/Frameworks/KDFCreditcardsTool.framework"
+  }
 }
