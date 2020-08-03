@@ -31,7 +31,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'kdfPod/Classes/**/*'
-  
+  s.ios.vendored_frameworks = 'Frameworks/KDFCreditcardsTool.framework'
   # s.resource_bundles = {
   #   'kdfPod' => ['kdfPod/Assets/*.png']
   # }

@@ -1,0 +1,6 @@
+framework module KDFCreditcardsTool {
+  umbrella header "KDFCreditcardsTool.h"
+
+  export *
+  module * { export * }
+}
